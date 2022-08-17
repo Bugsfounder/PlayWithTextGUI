@@ -4,7 +4,6 @@ from tkinter.filedialog import askopenfilename, asksaveasfilename
 import tkinter.messagebox as tmsg
 
 class PlayWithText:
-
     # FUNCTIONS ARE HERE 
     def capitalizeEachWord(self, text):
         textr = text.split(" ")
@@ -12,8 +11,7 @@ class PlayWithText:
         for i in range(len(textr)):
             returnText += textr[i].capitalize() + " "
         return returnText 
-            
-    
+         
     # MENUBAR FUNCTIONS ARE HERE 
     # FUNCTION FOR CHANGE THEME 
     def shiftMode(self, event):
