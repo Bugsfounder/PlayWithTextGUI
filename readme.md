@@ -3,9 +3,9 @@
 A simple yet powerful **Tkinter-based Text Manipulation App** built with Python.
 It allows users to easily manipulate text (capitalize, uppercase, lowercase, etc.), switch between themes, and save or open files.
 
-## ✨ Features
+## Features
 
-### 📝 Text Manipulation
+### Text Manipulation
 
 - **Capitalize** → Capitalizes the first character of the text.
 - **Upper Case** → Converts all text to uppercase.
@@ -13,14 +13,14 @@ It allows users to easily manipulate text (capitalize, uppercase, lowercase, etc
 - **Cap Each Word** → Capitalizes the first letter of each word.
 - **Delete** → Clears the editor and result box.
 
-### 📂 File Operations
+### File Operations
 
 - **New File** → Opens a new blank editor.
 - **Open File** → Opens an existing `.txt` file.
 - **Save File** → Saves the result/output text to a file.
 - **Exit** → Close the application.
 
-### ✂️ Edit Options
+### Edit Options
 
 - **Cut**
 - **Copy**
@@ -28,7 +28,7 @@ It allows users to easily manipulate text (capitalize, uppercase, lowercase, etc
 - **Undo**
 - **Redo**
 
-### 🎨 Themes
+### Themes
 
 Switch between beautiful themes for better reading/writing experience:
 
@@ -38,13 +38,13 @@ Switch between beautiful themes for better reading/writing experience:
 - Purple Theme
 - Relax Mode (Custom Relaxed colors)
 
-### ℹ️ Help
+### ℹHelp
 
 - **About** → Shows information about the software.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Clone this repository
