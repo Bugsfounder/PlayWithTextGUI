@@ -1,0 +1,8 @@
+build
+build/*
+env/*
+venv/*
+venv
+env
+
+*.spec
