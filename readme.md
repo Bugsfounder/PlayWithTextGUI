@@ -3,6 +3,18 @@
 A simple yet powerful **Tkinter-based Text Manipulation App** built with Python.
 It allows users to easily manipulate text (capitalize, uppercase, lowercase, etc.), switch between themes, and save or open files.
 
+## Demo
+
+![gif](/media/demo.gif)
+
+<!-- ![image](/media/img1.png)
+![image](/media/img2.png)
+![image](/media/img3.png) -->
+
+<!-- <img src="media/img1.png" width="300"/>
+<img src="media/img2.png" width="300"/>
+<img src="media/img3.png" width="300"/> -->
+
 ## Features
 
 ### Text Manipulation
@@ -78,3 +90,6 @@ source env/bin/activate
 ```bash
 python3 PlayWithText.py
 ```
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
